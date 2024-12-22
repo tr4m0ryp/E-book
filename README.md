@@ -12,12 +12,6 @@ A powerful collection of tools to automate screenshot capturing, process images,
 - **Process Scanned Documents**: Split double-page scans into individual pages for better organization.
 - **Create Professional PDFs**: Combine screenshots or scanned pages into a polished PDF document.
 
-### **Who Is This For?**
-- **Students**: Capture and organize study materials, lectures, or online classes efficiently.
-- **Professionals**: Automate documentation for reports, dashboards, or presentations.
-- **Researchers**: Document dynamic screen changes for experiments or data collection.
-- **Content Creators**: Compile tutorials or guides from screenshots into structured documents.
-
 ---
 
 ## **Tools Overview**
